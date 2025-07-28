@@ -1,4 +1,15 @@
-# LeetCode
+# LeetCode 🚀  
+
+Repositório com minhas soluções de desafios do **LeetCode**.  
+**Objetivo**: treinar algoritmos, estruturas de dados e melhorar a lógica de programação.
+
+---
+
+## Estrutura do repositório 📂
+Cada problema fica em uma pasta contendo:
+- Arquivo `.js` com a solução
+- `README.md` com a descrição/resumo do problema
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
@@ -17,3 +28,6 @@
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gabrieldeverdade/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
+
+---
+📌 *Meta: praticar um pouco todos os dias para evoluir!*
